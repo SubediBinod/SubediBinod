@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋! I'm Binod Subedi and I'm a Student, from Nepal</h2>
+<h2 align="center">Hi Human 👋! I'm Binod Subedi and I'm a Student, from Nepal</h2>
 
 ###
 
