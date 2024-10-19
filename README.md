@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="160" src="https://s2.ezgif.com/tmp/ezgif-2-57bb0ccef0.gif"  />
+  <img height="160" src="https://s2.ezgif.com/tmp/ezgif-2-57bb0ccef0.gif" alt="Binod pic"  />
 </div>
 
 ###
