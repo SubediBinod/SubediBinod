@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <br clear="both">
 
 <div align="center">
@@ -8,9 +7,6 @@
 ###
 
 <h2 align="center">Hi Human 👋! I'm Binod Subedi, and I'm a student from Nepal.</h2>
-=======
-<h2 align="center">Hi Human 👋! I'm Binod Subedi and I'm a Student, from Nepal</h2>
->>>>>>> b8ceeb08642c9226ad22d8dd656018ed52cc379c
 
 ###
 
@@ -96,12 +92,9 @@
 <img src="https://raw.githubusercontent.com/SubediBinod/SubediBinod/output/snake.svg" alt="Snake animation" />
 
 ###
-<<<<<<< HEAD
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubediBinod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-=======
->>>>>>> b8ceeb08642c9226ad22d8dd656018ed52cc379c
