@@ -91,6 +91,9 @@
 
 ![Snake animation](https://github.com/SubediBinod/SubediBinod/blob/output/snake.svg)
 
+### My open source contribution badges:
+[![An image of @subedibinod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subedibinod)](https://holopin.io/@subedibinod)
+
 ###
 
 <div align="center">
