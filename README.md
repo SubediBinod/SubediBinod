@@ -1,9 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  ![binod](https://github.com/user-attachments/assets/97fc4bdd-c86d-4d6e-94a5-f51987e95490)
+  <img src="https://github.com/user-attachments/assets/da2095ce-048a-4f1d-95ff-71d316fd9468" alt="binod" width="200" height="200" />
 </div>
-
 
 ###
 
