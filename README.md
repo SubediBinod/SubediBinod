@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="160" src="![binod](https://github.com/user-attachments/assets/97fc4bdd-c86d-4d6e-94a5-f51987e95490)" alt="Binod pic"  />
+  ![binod](https://github.com/user-attachments/assets/97fc4bdd-c86d-4d6e-94a5-f51987e95490)
 </div>
 
 
