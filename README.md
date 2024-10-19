@@ -1,16 +1,40 @@
+<<<<<<< HEAD
+<br clear="both">
+
+<div align="center">
+  <img height="160" src="https://s2.ezgif.com/tmp/ezgif-2-57bb0ccef0.gif"  />
+</div>
+
+###
+
+<h2 align="center">Hi Human 👋! I'm Binod Subedi, and I'm a student from Nepal.</h2>
+=======
 <h2 align="center">Hi Human 👋! I'm Binod Subedi and I'm a Student, from Nepal</h2>
+>>>>>>> b8ceeb08642c9226ad22d8dd656018ed52cc379c
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubediBinod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubediBinod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubediBinod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubediBinod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SubediBinod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SubediBinod/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="160" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"  />
 </div>
 
 ###
@@ -49,14 +73,6 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/uie6KAGZ8BkAAAAC/one-piece-chopper.gif"  />
-
-###
-
-<img align="left" height="150" src="https://media1.tenor.com/m/yY0uEu0drLkAAAAC/valverde-fede-valverde.gif"  />
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <a href="https://www.facebook.com/Subedi15/" target="_blank">
@@ -80,3 +96,12 @@
 <img src="https://raw.githubusercontent.com/SubediBinod/SubediBinod/output/snake.svg" alt="Snake animation" />
 
 ###
+<<<<<<< HEAD
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubediBinod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+=======
+>>>>>>> b8ceeb08642c9226ad22d8dd656018ed52cc379c
