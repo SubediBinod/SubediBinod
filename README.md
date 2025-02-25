@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hi Human 👋! I'm Binod Subedi, and I'm a student from Nepal.</h2>
+<h2 align="center">Hi Human 👋! I'm Binod Subedi, a Java Full Stack Developer and Student from Nepal.</h2>
 
 ###
 
