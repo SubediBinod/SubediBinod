@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="768" height="768" alt="me" src="https://github.com/user-attachments/assets/105b3ef1-3b11-4201-9b6d-98f04e1470c9"  alt="binod" width="200" height="200"/>
+  <img width="250" height="250" alt="me" src="https://github.com/user-attachments/assets/105b3ef1-3b11-4201-9b6d-98f04e1470c9" alt="binod" />
 </div>
 
 
